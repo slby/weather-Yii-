@@ -207,7 +207,7 @@ class SiteController extends Controller
             return json_decode($output->getData());
         } else {
             echo Yii::trace(CVarDumper::dumpAsString($output->getErrors()), 'vardump');
-        }
+        } 
 
         return false;
     }

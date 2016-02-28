@@ -45,8 +45,8 @@
       <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5030488">
-              <caret line="208" column="38" selection-start-line="208" selection-start-column="28" selection-end-line="208" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.5365854">
+              <caret line="209" column="10" selection-start-line="209" selection-start-column="10" selection-end-line="209" selection-end-column="10" />
               <folding>
                 <element signature="n#actionError#0;n#SiteController#0;n#!!top" expanded="false" />
                 <element signature="n#actionContact#0;n#SiteController#0;n#!!top" expanded="false" />
@@ -147,8 +147,8 @@
         <option value="$PROJECT_DIR$/protected/views/site/weather.php" />
         <option value="$PROJECT_DIR$/protected/models/WeatherForm.php" />
         <option value="$PROJECT_DIR$/protected/views/site/weatherData.php" />
-        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/protected/extensions/Curl.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
       </list>
     </option>
   </component>
@@ -638,8 +638,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5030488">
-          <caret line="208" column="38" selection-start-line="208" selection-start-column="28" selection-end-line="208" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.5365854">
+          <caret line="209" column="10" selection-start-line="209" selection-start-column="10" selection-end-line="209" selection-end-column="10" />
           <folding>
             <element signature="n#actionError#0;n#SiteController#0;n#!!top" expanded="false" />
             <element signature="n#actionContact#0;n#SiteController#0;n#!!top" expanded="false" />
